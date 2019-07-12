@@ -1,0 +1,4 @@
+2019-06-29T15:02:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\professionalEcommerce\wp-content\plugins\elementor\modules\safe-mode\module.php on line 10
+
+2019-06-29T15:04:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\professionalEcommerce\wp-includes\Requests\Transport\cURL.php on line 463
+

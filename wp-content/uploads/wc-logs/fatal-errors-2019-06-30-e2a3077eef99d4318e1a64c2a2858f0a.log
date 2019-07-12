@@ -1,0 +1,4 @@
+2019-06-30T14:31:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\professionalEcommerce\wp-content\plugins\woocommerce\includes\class-wc-geolite-integration.php on line 18
+
+2019-06-30T14:31:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\professionalEcommerce\wp-content\plugins\ocean-extra\includes\widgets\twitter.php on line 9
+
